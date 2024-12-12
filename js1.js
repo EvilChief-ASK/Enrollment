@@ -13,7 +13,7 @@ connectBtn.addEventListener("click",()=>{
 })
 
 function myFunction() {
-    alert("For additional information or if you are interested in joining our team, please don't hesitate to reach out to us at\n +1(469)-630-2823 - Sai Kumar (or)\n +1(469)-926-3485 - Karthik");
+    alert("For additional information or if you are interested in joining our team, please don't hesitate to reach out to us at\n +1(502)431-9420 - Charan (or)\n +1(425)459-7330 - Jayandeep");
 }
 
 function myLocation() {
